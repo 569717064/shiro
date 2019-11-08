@@ -1,0 +1,12 @@
+1. 相关概念
+	a.认证(authentication): 
+		用户通过证明自己是谁，进而决定用户进入系统。
+	b.授权(authoriztion): 
+		授权的前提，一定是通过认证。 主要控制用户在系统里，能对什么资源做什么操作！
+	c. shiro是一个权限管理框架，使用shiro管理权限，能够事半功倍！！
+
+2. 搭建shiro环境
+	a. 导入依赖
+		shiro-all
+	b. 创建一个shiro的配置文件
+		shiro.ini
